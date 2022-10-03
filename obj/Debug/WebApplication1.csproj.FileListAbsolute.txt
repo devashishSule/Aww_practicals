@@ -1,0 +1,7 @@
+D:\Bachelors of Science - IT\B.Sc - IT ( Sem V )\Advance Web Programming\Visual Studio Practs\WebApplication1\bin\WebApplication1.dll.config
+D:\Bachelors of Science - IT\B.Sc - IT ( Sem V )\Advance Web Programming\Visual Studio Practs\WebApplication1\bin\WebApplication1.dll
+D:\Bachelors of Science - IT\B.Sc - IT ( Sem V )\Advance Web Programming\Visual Studio Practs\WebApplication1\bin\WebApplication1.pdb
+D:\Bachelors of Science - IT\B.Sc - IT ( Sem V )\Advance Web Programming\Visual Studio Practs\WebApplication1\obj\Debug\WebApplication1.csproj.AssemblyReference.cache
+D:\Bachelors of Science - IT\B.Sc - IT ( Sem V )\Advance Web Programming\Visual Studio Practs\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
+D:\Bachelors of Science - IT\B.Sc - IT ( Sem V )\Advance Web Programming\Visual Studio Practs\WebApplication1\obj\Debug\WebApplication1.dll
+D:\Bachelors of Science - IT\B.Sc - IT ( Sem V )\Advance Web Programming\Visual Studio Practs\WebApplication1\obj\Debug\WebApplication1.pdb
